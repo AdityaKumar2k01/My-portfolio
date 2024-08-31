@@ -31,7 +31,7 @@ This portfolio website is designed to provide an overview of my work and skills.
 
 ## Demo
 
-You can try the live demo of the application [here](https://aditya0106.netlify.app/).
+You can try the live demo of the application [here](https://ayushianand70047.github.io/my-portfolio/).
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ To view or edit the website, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AdityaKumar2k01/My-portfolio.git
+   git clone https://github.com/AyushiAnand70047/my-portfolio.git
    ```
 
 2. **Open `index.html` in a web browser to view the website.**:
@@ -49,6 +49,6 @@ To view or edit the website, follow these steps:
 
 For any questions or suggestions, feel free to reach out.
 
-- GitHub: [AdityaKumar2k01](https://github.com/AdityaKumar2k01/)
+- GitHub: [AyushiAnand70047](https://github.com/AdityaKumar2k01/)
 - Email: adityakumar12103513@gmail.com
    
